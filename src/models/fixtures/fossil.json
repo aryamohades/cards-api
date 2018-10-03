@@ -1,0 +1,994 @@
+[
+    {
+        "model": "Card",
+        "data": {
+            "name": "Aerodactyl",
+            "numberText": "1/62",
+            "number": 1,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/aerodactyl_fossil_1.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "aerodactyl_fossil_1",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Articuno",
+            "numberText": "2/62",
+            "number": 2,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/articuno_fossil_2.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "articuno_fossil_2",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Ditto",
+            "numberText": "3/62",
+            "number": 3,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/ditto_fossil_3.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "ditto_fossil_3",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Dragonite",
+            "numberText": "4/62",
+            "number": 4,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/dragonite_fossil_4.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "dragonite_fossil_4",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Gengar",
+            "numberText": "5/62",
+            "number": 5,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/gengar_fossil_5.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "gengar_fossil_5",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Haunter",
+            "numberText": "6/62",
+            "number": 6,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/haunter_fossil_6.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "haunter_fossil_6",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Hitmonlee",
+            "numberText": "7/62",
+            "number": 7,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/hitmonlee_fossil_7.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "hitmonlee_fossil_7",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Hypno",
+            "numberText": "8/62",
+            "number": 8,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/hypno_fossil_8.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "hypno_fossil_8",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Kabutops",
+            "numberText": "9/62",
+            "number": 9,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/kabutops_fossil_9.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "kabutops_fossil_9",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Lapras",
+            "numberText": "10/62",
+            "number": 10,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/lapras_fossil_10.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "lapras_fossil_10",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Magneton",
+            "numberText": "11/62",
+            "number": 11,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/magneton_fossil_11.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "magneton_fossil_11",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Moltres",
+            "numberText": "12/62",
+            "number": 12,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/moltres_fossil_12.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "moltres_fossil_12",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Muk",
+            "numberText": "13/62",
+            "number": 13,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/muk_fossil_13.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "muk_fossil_13",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Raichu",
+            "numberText": "14/62",
+            "number": 14,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/raichu_fossil_14.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "raichu_fossil_14",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Zapdos",
+            "numberText": "15/62",
+            "number": 15,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/zapdos_fossil_15.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "zapdos_fossil_15",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Aerodactyl",
+            "numberText": "16/62",
+            "number": 16,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/aerodactyl_fossil_16.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "aerodactyl_fossil_16",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Articuno",
+            "numberText": "17/62",
+            "number": 17,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/articuno_fossil_17.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "articuno_fossil_17",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Ditto",
+            "numberText": "18/62",
+            "number": 18,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/ditto_fossil_18.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "ditto_fossil_18",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Dragonite",
+            "numberText": "19/62",
+            "number": 19,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/dragonite_fossil_19.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "dragonite_fossil_19",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Gengar",
+            "numberText": "20/62",
+            "number": 20,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/gengar_fossil_20.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "gengar_fossil_20",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Haunter",
+            "numberText": "21/62",
+            "number": 21,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/haunter_fossil_21.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "haunter_fossil_21",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Hitmonlee",
+            "numberText": "22/62",
+            "number": 22,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/hitmonlee_fossil_22.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "hitmonlee_fossil_22",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Hypno",
+            "numberText": "23/62",
+            "number": 23,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/hypno_fossil_23.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "hypno_fossil_23",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Kabutops",
+            "numberText": "24/62",
+            "number": 24,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/kabutops_fossil_24.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "kabutops_fossil_24",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Lapras",
+            "numberText": "25/62",
+            "number": 25,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/lapras_fossil_25.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "lapras_fossil_25",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Magneton",
+            "numberText": "26/62",
+            "number": 26,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/magneton_fossil_26.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "magneton_fossil_26",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Moltres",
+            "numberText": "27/62",
+            "number": 27,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/moltres_fossil_27.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "moltres_fossil_27",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Muk",
+            "numberText": "28/62",
+            "number": 28,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/muk_fossil_28.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "muk_fossil_28",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Raichu",
+            "numberText": "29/62",
+            "number": 29,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/raichu_fossil_29.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "raichu_fossil_29",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Zapdos",
+            "numberText": "30/62",
+            "number": 30,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/zapdos_fossil_30.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "zapdos_fossil_30",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Arbok",
+            "numberText": "31/62",
+            "number": 31,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/arbok_fossil_31.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "arbok_fossil_31",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Cloyster",
+            "numberText": "32/62",
+            "number": 32,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/cloyster_fossil_32.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "cloyster_fossil_32",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Gastly",
+            "numberText": "33/62",
+            "number": 33,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/gastly_fossil_33.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "gastly_fossil_33",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Golbat",
+            "numberText": "34/62",
+            "number": 34,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/golbat_fossil_34.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "golbat_fossil_34",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Golduck",
+            "numberText": "35/62",
+            "number": 35,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/golduck_fossil_35.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "golduck_fossil_35",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Golem",
+            "numberText": "36/62",
+            "number": 36,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/golem_fossil_36.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "golem_fossil_36",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Graveler",
+            "numberText": "37/62",
+            "number": 37,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/graveler_fossil_37.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "graveler_fossil_37",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Kingler",
+            "numberText": "38/62",
+            "number": 38,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/kingler_fossil_38.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "kingler_fossil_38",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Magmar",
+            "numberText": "39/62",
+            "number": 39,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/magmar_fossil_39.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "magmar_fossil_39",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Omastar",
+            "numberText": "40/62",
+            "number": 40,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/omastar_fossil_40.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "omastar_fossil_40",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Sandslash",
+            "numberText": "41/62",
+            "number": 41,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/sandslash_fossil_41.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "sandslash_fossil_41",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Seadra",
+            "numberText": "42/62",
+            "number": 42,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/seadra_fossil_42.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "seadra_fossil_42",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Slowbro",
+            "numberText": "43/62",
+            "number": 43,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/slowbro_fossil_43.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "slowbro_fossil_43",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Tentacruel",
+            "numberText": "44/62",
+            "number": 44,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/tentacruel_fossil_44.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "tentacruel_fossil_44",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Weezing",
+            "numberText": "45/62",
+            "number": 45,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/weezing_fossil_45.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "weezing_fossil_45",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Ekans",
+            "numberText": "46/62",
+            "number": 46,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/ekans_fossil_46.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "ekans_fossil_46",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Geodude",
+            "numberText": "47/62",
+            "number": 47,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/geodude_fossil_47.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "geodude_fossil_47",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Grimer",
+            "numberText": "48/62",
+            "number": 48,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/grimer_fossil_48.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "grimer_fossil_48",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Horsea",
+            "numberText": "49/62",
+            "number": 49,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/horsea_fossil_49.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "horsea_fossil_49",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Kabuto",
+            "numberText": "50/62",
+            "number": 50,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/kabuto_fossil_50.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "kabuto_fossil_50",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Krabby",
+            "numberText": "51/62",
+            "number": 51,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/krabby_fossil_51.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "krabby_fossil_51",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Omanyte",
+            "numberText": "52/62",
+            "number": 52,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/omanyte_fossil_52.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "omanyte_fossil_52",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Psyduck",
+            "numberText": "53/62",
+            "number": 53,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/psyduck_fossil_53.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "psyduck_fossil_53",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Shellder",
+            "numberText": "54/62",
+            "number": 54,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/shellder_fossil_54.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "shellder_fossil_54",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Slowpoke",
+            "numberText": "55/62",
+            "number": 55,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/slowpoke_fossil_55.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "slowpoke_fossil_55",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Tentacool",
+            "numberText": "56/62",
+            "number": 56,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/tentacool_fossil_56.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "tentacool_fossil_56",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Zubat",
+            "numberText": "57/62",
+            "number": 57,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/zubat_fossil_57.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "zubat_fossil_57",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Mr. Fuji",
+            "numberText": "58/62",
+            "number": 58,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/mr_fuji_fossil_58.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "mr_fuji_fossil_58",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Energy Search",
+            "numberText": "59/62",
+            "number": 59,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/energy_search_fossil_59.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "energy_search_fossil_59",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Gambler",
+            "numberText": "60/62",
+            "number": 60,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/gambler_fossil_60.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "gambler_fossil_60",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Recycle",
+            "numberText": "61/62",
+            "number": 61,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/recycle_fossil_61.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "recycle_fossil_61",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Mysterious Fossil",
+            "numberText": "62/62",
+            "number": 62,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/fossil/mysterious_fossil_fossil_62.jpg",
+            "series": {
+                "name": "Fossil"
+            },
+            "cardId": "mysterious_fossil_fossil_62",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    }
+]

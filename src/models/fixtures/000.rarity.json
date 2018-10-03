@@ -1,0 +1,51 @@
+[
+  {
+    "model": "Rarity",
+    "data": {
+      "type": "none",
+      "value": 0
+    }
+  },
+  {
+    "model": "Rarity",
+    "data": {
+      "type": "common",
+      "value": 1
+    }
+  },
+  {
+    "model": "Rarity",
+    "data": {
+      "type": "uncommon",
+      "value": 2
+    }
+  },
+  {
+    "model": "Rarity",
+    "data": {
+      "type": "rare",
+      "value": 3
+    }
+  },
+  {
+    "model": "Rarity",
+    "data": {
+      "type": "holo rare",
+      "value": 4
+    }
+  },
+  {
+    "model": "Rarity",
+    "data": {
+      "type": "ultra rare",
+      "value": 5
+    }
+  },
+  {
+    "model": "Rarity",
+    "data": {
+      "type": "secret rare",
+      "value": 6
+    }
+  }
+]

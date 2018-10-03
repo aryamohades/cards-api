@@ -1,0 +1,14 @@
+[
+  {
+    "model": "WishlistEntry",
+    "data": {
+      "notes": "PSA 8",
+      "card": {
+        "card_id": "charizard_base_set_1st_edition_4"
+      },
+      "user": {
+        "id": 2
+      }
+    }
+  }
+]

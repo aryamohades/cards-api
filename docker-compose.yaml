@@ -1,0 +1,28 @@
+version: "3"
+services:
+  web:
+    build: .
+    volumes:
+      - .:/app/
+    ports:
+      - "3000:3000"
+    depends_on:
+      - postgres
+    environment:
+      NODE_ENV: development
+      PORT: 3000
+      DATABASE_URL: postgres://user@postgres:5432/cards
+      APP_SECRET: 12345abcde
+      MAILGUN_EMAIL: postmaster@sandbox2ac10d5c1cca4cd9bf9c26a3762a9f25.mailgun.org
+      MAILGUN_DOMAIN: sandbox2ac10d5c1cca4cd9bf9c26a3762a9f25.mailgun.org
+      MAILGUN_ACTIVE_API_KEY: 82f62ae6e4e85bfa86a1435367e11b00-a4502f89-6502dd97
+      RESET_PASSWORD_URL: http://localhost:8080/reset-password?token=
+      LOGIN_URL: http://localhost:8080/login
+      CONFIRM_EMAIL_URL: http://localhost:8080/confirm-email?token=
+  postgres:
+    image: postgres:9.6.2-alpine
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_DB: cards

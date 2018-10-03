@@ -1,0 +1,27 @@
+[
+  {
+    "model": "CollectionEntry",
+    "data": {
+      "condition": "Near Mint",
+      "notes": "cool",
+      "psa": "9",
+      "card": {
+        "id": 1
+      },
+      "user": {
+        "id": 2
+      }
+    }
+  },
+  {
+    "model": "CollectionEntry",
+    "data": {
+      "card": {
+        "id": 4
+      },
+      "user": {
+        "id": 2
+      }
+    }
+  }
+]

@@ -1,0 +1,309 @@
+[
+  {
+    "model": "CardSet",
+    "data": {
+      "name": "Base Set 1st Edition",
+      "search": "base_set_1st_edition",
+      "size": 102,
+      "release": "January 9, 1999",
+      "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226198/cards/sets/base_set.png",
+      "firstEdition": true,
+      "rarities": [
+        {
+          "type": "common"
+        },
+        {
+          "type": "uncommon"
+        },
+        {
+          "type": "rare"
+        },
+        {
+          "type": "holo rare"
+        },
+        {
+          "type": "none"
+        }
+      ],
+      "sequence": 1
+    }
+  },
+  {
+    "model": "CardSet",
+    "data": {
+      "name": "Base Set",
+      "search": "base_set",
+      "size": 102,
+      "release": "January 9, 1999",
+      "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226198/cards/sets/base_set.png",
+      "rarities": [
+        {
+          "type": "common"
+        },
+        {
+          "type": "uncommon"
+        },
+        {
+          "type": "rare"
+        },
+        {
+          "type": "holo rare"
+        },
+        {
+          "type": "none"
+        }
+      ],
+      "sequence": 2
+    }
+  },
+  {
+    "model": "CardSet",
+    "data": {
+      "name": "Jungle 1st Edition",
+      "search": "jungle_1st_edition",
+      "size": 64,
+      "release": "June 16, 1999",
+      "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226197/cards/sets/jungle.png",
+      "symbol": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226197/cards/symbols/set_symbol_jungle.png",
+      "firstEdition": true,
+      "rarities": [
+        {
+          "type": "common"
+        },
+        {
+          "type": "uncommon"
+        },
+        {
+          "type": "rare"
+        },
+        {
+          "type": "holo rare"
+        }
+      ],
+      "sequence": 3
+    }
+  },
+  {
+    "model": "CardSet",
+    "data": {
+      "name": "Jungle",
+      "search": "jungle",
+      "size": 64,
+      "release": "June 16, 1999",
+      "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226197/cards/sets/jungle.png",
+      "symbol": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226197/cards/symbols/set_symbol_jungle.png",
+      "rarities": [
+        {
+          "type": "common"
+        },
+        {
+          "type": "uncommon"
+        },
+        {
+          "type": "rare"
+        },
+        {
+          "type": "holo rare"
+        }
+      ],
+      "sequence": 4
+    }
+  },
+  {
+    "model": "CardSet",
+    "data": {
+      "name": "Fossil 1st Edition",
+      "search": "fossil_1st_edition",
+      "size": 62,
+      "release": "October 10, 1999",
+      "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226197/cards/sets/fossil.png",
+      "symbol": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226197/cards/symbols/set_symbol_fossil.png",
+      "firstEdition": true,
+      "rarities": [
+        {
+          "type": "common"
+        },
+        {
+          "type": "uncommon"
+        },
+        {
+          "type": "rare"
+        },
+        {
+          "type": "holo rare"
+        }
+      ],
+      "sequence": 5
+    }
+  },
+  {
+    "model": "CardSet",
+    "data": {
+      "name": "Fossil",
+      "search": "fossil",
+      "size": 62,
+      "release": "October 10, 1999",
+      "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226197/cards/sets/fossil.png",
+      "symbol": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226197/cards/symbols/set_symbol_fossil.png",
+      "rarities": [
+        {
+          "type": "common"
+        },
+        {
+          "type": "uncommon"
+        },
+        {
+          "type": "rare"
+        },
+        {
+          "type": "holo rare"
+        }
+      ],
+      "sequence": 6
+    }
+  },
+  {
+    "model": "CardSet",
+    "data": {
+      "name": "Base Set 2",
+      "search": "base_set_2",
+      "size": 130,
+      "release": "February 24, 2000",
+      "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226389/base_set_2.jpg",
+      "symbol": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226197/cards/symbols/set_symbol_base_set_2.png",
+      "sequence": 7
+    }
+  },
+  {
+    "model": "CardSet",
+    "data": {
+      "name": "Team Rocket",
+      "search": "team_rocket",
+      "size": 83,
+      "release": "April 24, 2000",
+      "image": "team_rocket.jpg",
+      "symbol": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226197/cards/symbols/set_symbol_team_rocket.png",
+      "sequence": 8
+    }
+  },
+  {
+    "model": "CardSet",
+    "data": {
+      "name": "Gym Heroes",
+      "search": "gym_heroes",
+      "size": 132,
+      "release": "August 14, 2000",
+      "image": "gym_heroes.jpg",
+      "symbol": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226197/cards/symbols/set_symbol_jungle.png",
+      "sequence": 9
+    }
+  },
+  {
+    "model": "CardSet",
+    "data": {
+      "name": "Gym Challenge",
+      "search": "gym_challenge",
+      "size": 132,
+      "release": "October 16, 2000",
+      "image": "gym_challenge.jpg",
+      "symbol": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226197/cards/symbols/set_symbol_jungle.png",
+      "sequence": 10
+    }
+  },
+  {
+    "model": "CardSet",
+    "data": {
+      "name": "Neo Genesis",
+      "search": "neo_genesis",
+      "size": 111,
+      "release": "December 16, 2000",
+      "image": "neo_genesis.jpg",
+      "symbol": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226197/cards/symbols/set_symbol_jungle.png",
+      "sequence": 11
+    }
+  },
+  {
+    "model": "CardSet",
+    "data": {
+      "name": "Neo Discovery",
+      "search": "neo_discovery",
+      "size": 75,
+      "release": "June 1, 2001",
+      "image": "neo_discovery.jpg",
+      "symbol": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226197/cards/symbols/set_symbol_jungle.png",
+      "sequence": 12
+    }
+  },
+  {
+    "model": "CardSet",
+    "data": {
+      "name": "Neo Revelation",
+      "search": "neo_revelation",
+      "size": 66,
+      "release": "September 21, 2001",
+      "image": "neo_revelation.jpg",
+      "symbol": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226197/cards/symbols/set_symbol_jungle.png",
+      "sequence": 13
+    }
+  },
+  {
+    "model": "CardSet",
+    "data": {
+      "name": "Neo Destiny",
+      "search": "neo_destiny",
+      "size": 113,
+      "release": "February 28, 2002",
+      "image": "neo_destiny.jpg",
+      "symbol": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226197/cards/symbols/set_symbol_jungle.png",
+      "sequence": 14
+    }
+  },
+  {
+    "model": "CardSet",
+    "data": {
+      "name": "Legendary Collection",
+      "search": "legendary_collection",
+      "size": 110,
+      "release": "May 24, 2002",
+      "image": "legendary_collection.jpg",
+      "symbol": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226197/cards/symbols/set_symbol_jungle.png",
+      "sequence": 15
+    }
+  },
+  {
+    "model": "CardSet",
+    "data": {
+      "name": "Expedition Base Set",
+      "search": "expedition_base_set",
+      "size": 165,
+      "release": "September 15, 2002",
+      "image": "expedition_base_set.jpg",
+      "symbol": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226197/cards/symbols/set_symbol_jungle.png",
+      "sequence": 16
+    }
+  },
+  {
+    "model": "CardSet",
+    "data": {
+      "name": "Aquapolis",
+      "search": "aquapolis",
+      "size": 186,
+      "release": "January 15, 2003",
+      "image": "aquapolis.jpg",
+      "symbol": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226197/cards/symbols/set_symbol_jungle.png",
+      "sequence": 17
+    }
+  },
+  {
+    "model": "CardSet",
+    "data": {
+      "name": "Skyridge",
+      "search": "skyridge",
+      "size": 182,
+      "release": "May 12, 2003",
+      "image": "skyridge.jpg",
+      "symbol": "https://res.cloudinary.com/dqhs5nw7b/image/upload/v1532226197/cards/symbols/set_symbol_jungle.png",
+      "sequence": 18
+    }
+  }
+]

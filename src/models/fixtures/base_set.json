@@ -1,0 +1,1634 @@
+[
+    {
+        "model": "Card",
+        "data": {
+            "name": "Alakazam",
+            "numberText": "1/102",
+            "number": 1,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/alakazam_base_set_1.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "alakazam_base_set_1",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Blastoise",
+            "numberText": "2/102",
+            "number": 2,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/blastoise_base_set_2.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "blastoise_base_set_2",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Chansey",
+            "numberText": "3/102",
+            "number": 3,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/chansey_base_set_3.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "chansey_base_set_3",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Charizard",
+            "numberText": "4/102",
+            "number": 4,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/charizard_base_set_4.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "charizard_base_set_4",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Clefairy",
+            "numberText": "5/102",
+            "number": 5,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/clefairy_base_set_5.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "clefairy_base_set_5",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Gyarados",
+            "numberText": "6/102",
+            "number": 6,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/gyarados_base_set_6.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "gyarados_base_set_6",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Hitmonchan",
+            "numberText": "7/102",
+            "number": 7,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/hitmonchan_base_set_7.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "hitmonchan_base_set_7",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Machamp",
+            "numberText": "8/102",
+            "number": 8,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/machamp_base_set_8.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "machamp_base_set_8",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Magneton",
+            "numberText": "9/102",
+            "number": 9,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/magneton_base_set_9.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "magneton_base_set_9",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Mewtwo",
+            "numberText": "10/102",
+            "number": 10,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/mewtwo_base_set_10.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "mewtwo_base_set_10",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Nidoking",
+            "numberText": "11/102",
+            "number": 11,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/nidoking_base_set_11.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "nidoking_base_set_11",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Ninetales",
+            "numberText": "12/102",
+            "number": 12,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/ninetales_base_set_12.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "ninetales_base_set_12",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Poliwrath",
+            "numberText": "13/102",
+            "number": 13,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/poliwrath_base_set_13.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "poliwrath_base_set_13",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Raichu",
+            "numberText": "14/102",
+            "number": 14,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/raichu_base_set_14.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "raichu_base_set_14",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Venusaur",
+            "numberText": "15/102",
+            "number": 15,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/venusaur_base_set_15.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "venusaur_base_set_15",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Zapdos",
+            "numberText": "16/102",
+            "number": 16,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/zapdos_base_set_16.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "zapdos_base_set_16",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Beedrill",
+            "numberText": "17/102",
+            "number": 17,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/beedrill_base_set_17.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "beedrill_base_set_17",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Dragonair",
+            "numberText": "18/102",
+            "number": 18,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/dragonair_base_set_18.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "dragonair_base_set_18",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Dugtrio",
+            "numberText": "19/102",
+            "number": 19,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/dugtrio_base_set_19.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "dugtrio_base_set_19",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Electabuzz",
+            "numberText": "20/102",
+            "number": 20,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/electabuzz_base_set_20.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "electabuzz_base_set_20",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Electrode",
+            "numberText": "21/102",
+            "number": 21,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/electrode_base_set_21.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "electrode_base_set_21",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Pidgeotto",
+            "numberText": "22/102",
+            "number": 22,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/pidgeotto_base_set_22.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "pidgeotto_base_set_22",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Arcanine",
+            "numberText": "23/102",
+            "number": 23,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/arcanine_base_set_23.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "arcanine_base_set_23",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Charmeleon",
+            "numberText": "24/102",
+            "number": 24,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/charmeleon_base_set_24.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "charmeleon_base_set_24",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Dewgong",
+            "numberText": "25/102",
+            "number": 25,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/dewgong_base_set_25.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "dewgong_base_set_25",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Dratini",
+            "numberText": "26/102",
+            "number": 26,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/dratini_base_set_26.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "dratini_base_set_26",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Farfetch'd",
+            "numberText": "27/102",
+            "number": 27,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/farfetchd_base_set_27.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "farfetchd_base_set_27",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Growlithe",
+            "numberText": "28/102",
+            "number": 28,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/growlithe_base_set_28.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "growlithe_base_set_28",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Haunter",
+            "numberText": "29/102",
+            "number": 29,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/haunter_base_set_29.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "haunter_base_set_29",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Ivysaur",
+            "numberText": "30/102",
+            "number": 30,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/ivysaur_base_set_30.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "ivysaur_base_set_30",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Jynx",
+            "numberText": "31/102",
+            "number": 31,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/jynx_base_set_31.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "jynx_base_set_31",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Kadabra",
+            "numberText": "32/102",
+            "number": 32,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/kadabra_base_set_32.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "kadabra_base_set_32",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Kakuna",
+            "numberText": "33/102",
+            "number": 33,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/kakuna_base_set_33.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "kakuna_base_set_33",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Machoke",
+            "numberText": "34/102",
+            "number": 34,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/machoke_base_set_34.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "machoke_base_set_34",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Magikarp",
+            "numberText": "35/102",
+            "number": 35,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/magikarp_base_set_35.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "magikarp_base_set_35",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Magmar",
+            "numberText": "36/102",
+            "number": 36,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/magmar_base_set_36.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "magmar_base_set_36",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Nidorino",
+            "numberText": "37/102",
+            "number": 37,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/nidorino_base_set_37.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "nidorino_base_set_37",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Poliwhirl",
+            "numberText": "38/102",
+            "number": 38,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/poliwhirl_base_set_38.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "poliwhirl_base_set_38",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Porygon",
+            "numberText": "39/102",
+            "number": 39,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/porygon_base_set_39.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "porygon_base_set_39",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Raticate",
+            "numberText": "40/102",
+            "number": 40,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/raticate_base_set_40.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "raticate_base_set_40",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Seel",
+            "numberText": "41/102",
+            "number": 41,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/seel_base_set_41.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "seel_base_set_41",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Wartortle",
+            "numberText": "42/102",
+            "number": 42,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/wartortle_base_set_42.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "wartortle_base_set_42",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Abra",
+            "numberText": "43/102",
+            "number": 43,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/abra_base_set_43.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "abra_base_set_43",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Bulbasaur",
+            "numberText": "44/102",
+            "number": 44,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/bulbasaur_base_set_44.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "bulbasaur_base_set_44",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Caterpie",
+            "numberText": "45/102",
+            "number": 45,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/caterpie_base_set_45.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "caterpie_base_set_45",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Charmander",
+            "numberText": "46/102",
+            "number": 46,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/charmander_base_set_46.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "charmander_base_set_46",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Diglett",
+            "numberText": "47/102",
+            "number": 47,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/diglett_base_set_47.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "diglett_base_set_47",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Doduo",
+            "numberText": "48/102",
+            "number": 48,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/doduo_base_set_48.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "doduo_base_set_48",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Drowzee",
+            "numberText": "49/102",
+            "number": 49,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/drowzee_base_set_49.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "drowzee_base_set_49",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Gastly",
+            "numberText": "50/102",
+            "number": 50,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/gastly_base_set_50.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "gastly_base_set_50",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Koffing",
+            "numberText": "51/102",
+            "number": 51,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/koffing_base_set_51.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "koffing_base_set_51",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Machop",
+            "numberText": "52/102",
+            "number": 52,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/machop_base_set_52.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "machop_base_set_52",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Magnemite",
+            "numberText": "53/102",
+            "number": 53,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/magnemite_base_set_53.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "magnemite_base_set_53",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Metapod",
+            "numberText": "54/102",
+            "number": 54,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/metapod_base_set_54.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "metapod_base_set_54",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Nidoran",
+            "numberText": "55/102",
+            "number": 55,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/nidoran_base_set_55.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "nidoran_base_set_55",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Onix",
+            "numberText": "56/102",
+            "number": 56,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/onix_base_set_56.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "onix_base_set_56",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Pidgey",
+            "numberText": "57/102",
+            "number": 57,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/pidgey_base_set_57.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "pidgey_base_set_57",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Pikachu",
+            "numberText": "58/102",
+            "number": 58,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/pikachu_base_set_58.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "pikachu_base_set_58",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Poliwag",
+            "numberText": "59/102",
+            "number": 59,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/poliwag_base_set_59.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "poliwag_base_set_59",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Ponyta",
+            "numberText": "60/102",
+            "number": 60,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/ponyta_base_set_60.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "ponyta_base_set_60",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Rattata",
+            "numberText": "61/102",
+            "number": 61,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/rattata_base_set_61.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "rattata_base_set_61",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Sandshrew",
+            "numberText": "62/102",
+            "number": 62,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/sandshrew_base_set_62.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "sandshrew_base_set_62",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Squirtle",
+            "numberText": "63/102",
+            "number": 63,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/squirtle_base_set_63.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "squirtle_base_set_63",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Starmie",
+            "numberText": "64/102",
+            "number": 64,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/starmie_base_set_64.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "starmie_base_set_64",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Staryu",
+            "numberText": "65/102",
+            "number": 65,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/staryu_base_set_65.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "staryu_base_set_65",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Tangela",
+            "numberText": "66/102",
+            "number": 66,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/tangela_base_set_66.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "tangela_base_set_66",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Voltorb",
+            "numberText": "67/102",
+            "number": 67,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/voltorb_base_set_67.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "voltorb_base_set_67",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Vulpix",
+            "numberText": "68/102",
+            "number": 68,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/vulpix_base_set_68.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "vulpix_base_set_68",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Weedle",
+            "numberText": "69/102",
+            "number": 69,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/weedle_base_set_69.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "weedle_base_set_69",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Clefairy Doll",
+            "numberText": "70/102",
+            "number": 70,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/clefairy_doll_base_set_70.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "clefairy_doll_base_set_70",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Computer Search",
+            "numberText": "71/102",
+            "number": 71,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/computer_search_base_set_71.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "computer_search_base_set_71",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Devolution Spray",
+            "numberText": "72/102",
+            "number": 72,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/devolution_spray_base_set_72.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "devolution_spray_base_set_72",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Imposter Professor Oak",
+            "numberText": "73/102",
+            "number": 73,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/imposter_professor_oak_base_set_73.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "imposter_professor_oak_base_set_73",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Item Finder",
+            "numberText": "74/102",
+            "number": 74,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/item_finder_base_set_74.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "item_finder_base_set_74",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Lass",
+            "numberText": "75/102",
+            "number": 75,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/lass_base_set_75.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "lass_base_set_75",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Pokémon Breeder",
+            "numberText": "76/102",
+            "number": 76,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/pokemon_breeder_base_set_76.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "pokemon_breeder_base_set_76",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Pokémon Trader",
+            "numberText": "77/102",
+            "number": 77,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/pokemon_trader_base_set_77.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "pokemon_trader_base_set_77",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Scoop Up",
+            "numberText": "78/102",
+            "number": 78,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/scoop_up_base_set_78.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "scoop_up_base_set_78",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Super Energy Removal",
+            "numberText": "79/102",
+            "number": 79,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/super_energy_removal_base_set_79.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "super_energy_removal_base_set_79",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Defender",
+            "numberText": "80/102",
+            "number": 80,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/defender_base_set_80.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "defender_base_set_80",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Energy Retrieval",
+            "numberText": "81/102",
+            "number": 81,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/energy_retrieval_base_set_81.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "energy_retrieval_base_set_81",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Full Heal",
+            "numberText": "82/102",
+            "number": 82,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/full_heal_base_set_82.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "full_heal_base_set_82",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Maintenance",
+            "numberText": "83/102",
+            "number": 83,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/maintenance_base_set_83.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "maintenance_base_set_83",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "PlusPower",
+            "numberText": "84/102",
+            "number": 84,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/pluspower_base_set_84.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "pluspower_base_set_84",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Pokémon Center",
+            "numberText": "85/102",
+            "number": 85,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/pokemon_center_base_set_85.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "pokemon_center_base_set_85",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Pokémon Flute",
+            "numberText": "86/102",
+            "number": 86,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/pokemon_flute_base_set_86.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "pokemon_flute_base_set_86",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Pokédex",
+            "numberText": "87/102",
+            "number": 87,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/pokedex_base_set_87.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "pokedex_base_set_87",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Professor Oak",
+            "numberText": "88/102",
+            "number": 88,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/professor_oak_base_set_88.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "professor_oak_base_set_88",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Revive",
+            "numberText": "89/102",
+            "number": 89,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/revive_base_set_89.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "revive_base_set_89",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Super Potion",
+            "numberText": "90/102",
+            "number": 90,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/super_potion_base_set_90.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "super_potion_base_set_90",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Bill",
+            "numberText": "91/102",
+            "number": 91,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/bill_base_set_91.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "bill_base_set_91",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Energy Removal",
+            "numberText": "92/102",
+            "number": 92,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/energy_removal_base_set_92.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "energy_removal_base_set_92",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Gust of Wind",
+            "numberText": "93/102",
+            "number": 93,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/gust_of_wind_base_set_93.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "gust_of_wind_base_set_93",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Potion",
+            "numberText": "94/102",
+            "number": 94,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/potion_base_set_94.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "potion_base_set_94",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Switch",
+            "numberText": "95/102",
+            "number": 95,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/switch_base_set_95.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "switch_base_set_95",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Double Colorless Energy",
+            "numberText": "96/102",
+            "number": 96,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/double_colorless_energy_base_set_96.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "double_colorless_energy_base_set_96",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Fighting Energy",
+            "numberText": "97/102",
+            "number": 97,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/fighting_energy_base_set_97.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "fighting_energy_base_set_97",
+            "rarity": {
+                "type": "none"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Fire Energy",
+            "numberText": "98/102",
+            "number": 98,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/fire_energy_base_set_98.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "fire_energy_base_set_98",
+            "rarity": {
+                "type": "none"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Grass Energy",
+            "numberText": "99/102",
+            "number": 99,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/grass_energy_base_set_99.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "grass_energy_base_set_99",
+            "rarity": {
+                "type": "none"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Lightning Energy",
+            "numberText": "100/102",
+            "number": 100,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/lightning_energy_base_set_100.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "lightning_energy_base_set_100",
+            "rarity": {
+                "type": "none"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Psychic Energy",
+            "numberText": "101/102",
+            "number": 101,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/psychic_energy_base_set_101.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "psychic_energy_base_set_101",
+            "rarity": {
+                "type": "none"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Water Energy",
+            "numberText": "102/102",
+            "number": 102,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/base_set/water_energy_base_set_102.jpg",
+            "series": {
+                "name": "Base Set"
+            },
+            "cardId": "water_energy_base_set_102",
+            "rarity": {
+                "type": "none"
+            }
+        }
+    }
+]

@@ -1,0 +1,1026 @@
+[
+    {
+        "model": "Card",
+        "data": {
+            "name": "Clefable",
+            "numberText": "1/64",
+            "number": 1,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/clefable_jungle_1.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "clefable_jungle_1",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Electrode",
+            "numberText": "2/64",
+            "number": 2,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/electrode_jungle_2.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "electrode_jungle_2",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Flareon",
+            "numberText": "3/64",
+            "number": 3,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/flareon_jungle_3.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "flareon_jungle_3",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Jolteon",
+            "numberText": "4/64",
+            "number": 4,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/jolteon_jungle_4.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "jolteon_jungle_4",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Kangaskhan",
+            "numberText": "5/64",
+            "number": 5,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/kangaskhan_jungle_5.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "kangaskhan_jungle_5",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Mr. Mime",
+            "numberText": "6/64",
+            "number": 6,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/mr_mime_jungle_6.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "mr_mime_jungle_6",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Nidoqueen",
+            "numberText": "7/64",
+            "number": 7,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/nidoqueen_jungle_7.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "nidoqueen_jungle_7",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Pidgeot",
+            "numberText": "8/64",
+            "number": 8,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/pidgeot_jungle_8.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "pidgeot_jungle_8",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Pinsir",
+            "numberText": "9/64",
+            "number": 9,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/pinsir_jungle_9.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "pinsir_jungle_9",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Scyther",
+            "numberText": "10/64",
+            "number": 10,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/scyther_jungle_10.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "scyther_jungle_10",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Snorlax",
+            "numberText": "11/64",
+            "number": 11,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/snorlax_jungle_11.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "snorlax_jungle_11",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Vaporeon",
+            "numberText": "12/64",
+            "number": 12,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/vaporeon_jungle_12.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "vaporeon_jungle_12",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Venomoth",
+            "numberText": "13/64",
+            "number": 13,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/venomoth_jungle_13.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "venomoth_jungle_13",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Victreebel",
+            "numberText": "14/64",
+            "number": 14,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/victreebel_jungle_14.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "victreebel_jungle_14",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Vileplume",
+            "numberText": "15/64",
+            "number": 15,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/vileplume_jungle_15.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "vileplume_jungle_15",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Wigglytuff",
+            "numberText": "16/64",
+            "number": 16,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/wigglytuff_jungle_16.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "wigglytuff_jungle_16",
+            "rarity": {
+                "type": "holo rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Clefable",
+            "numberText": "17/64",
+            "number": 17,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/clefable_jungle_17.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "clefable_jungle_17",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Electrode",
+            "numberText": "18/64",
+            "number": 18,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/electrode_jungle_18.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "electrode_jungle_18",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Flareon",
+            "numberText": "19/64",
+            "number": 19,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/flareon_jungle_19.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "flareon_jungle_19",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Jolteon",
+            "numberText": "20/64",
+            "number": 20,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/jolteon_jungle_20.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "jolteon_jungle_20",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Kangaskhan",
+            "numberText": "21/64",
+            "number": 21,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/kangaskhan_jungle_21.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "kangaskhan_jungle_21",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Mr. Mime",
+            "numberText": "22/64",
+            "number": 22,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/mr_mime_jungle_22.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "mr_mime_jungle_22",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Nidoqueen",
+            "numberText": "23/64",
+            "number": 23,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/nidoqueen_jungle_23.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "nidoqueen_jungle_23",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Pidgeot",
+            "numberText": "24/64",
+            "number": 24,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/pidgeot_jungle_24.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "pidgeot_jungle_24",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Pinsir",
+            "numberText": "25/64",
+            "number": 25,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/pinsir_jungle_25.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "pinsir_jungle_25",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Scyther",
+            "numberText": "26/64",
+            "number": 26,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/scyther_jungle_26.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "scyther_jungle_26",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Snorlax",
+            "numberText": "27/64",
+            "number": 27,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/snorlax_jungle_27.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "snorlax_jungle_27",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Vaporeon",
+            "numberText": "28/64",
+            "number": 28,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/vaporeon_jungle_28.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "vaporeon_jungle_28",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Venomoth",
+            "numberText": "29/64",
+            "number": 29,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/venomoth_jungle_29.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "venomoth_jungle_29",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Victreebel",
+            "numberText": "30/64",
+            "number": 30,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/victreebel_jungle_30.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "victreebel_jungle_30",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Vileplume",
+            "numberText": "31/64",
+            "number": 31,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/vileplume_jungle_31.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "vileplume_jungle_31",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Wigglytuff",
+            "numberText": "32/64",
+            "number": 32,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/wigglytuff_jungle_32.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "wigglytuff_jungle_32",
+            "rarity": {
+                "type": "rare"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Butterfree",
+            "numberText": "33/64",
+            "number": 33,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/butterfree_jungle_33.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "butterfree_jungle_33",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Dodrio",
+            "numberText": "34/64",
+            "number": 34,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/dodrio_jungle_34.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "dodrio_jungle_34",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Exeggutor",
+            "numberText": "35/64",
+            "number": 35,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/exeggutor_jungle_35.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "exeggutor_jungle_35",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Fearow",
+            "numberText": "36/64",
+            "number": 36,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/fearow_jungle_36.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "fearow_jungle_36",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Gloom",
+            "numberText": "37/64",
+            "number": 37,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/gloom_jungle_37.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "gloom_jungle_37",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Lickitung",
+            "numberText": "38/64",
+            "number": 38,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/lickitung_jungle_38.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "lickitung_jungle_38",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Marowak",
+            "numberText": "39/64",
+            "number": 39,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/marowak_jungle_39.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "marowak_jungle_39",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Nidorina",
+            "numberText": "40/64",
+            "number": 40,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/nidorina_jungle_40.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "nidorina_jungle_40",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Parasect",
+            "numberText": "41/64",
+            "number": 41,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/parasect_jungle_41.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "parasect_jungle_41",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Persian",
+            "numberText": "42/64",
+            "number": 42,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/persian_jungle_42.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "persian_jungle_42",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Primeape",
+            "numberText": "43/64",
+            "number": 43,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/primeape_jungle_43.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "primeape_jungle_43",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Rapidash",
+            "numberText": "44/64",
+            "number": 44,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/rapidash_jungle_44.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "rapidash_jungle_44",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Rhydon",
+            "numberText": "45/64",
+            "number": 45,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/rhydon_jungle_45.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "rhydon_jungle_45",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Seaking",
+            "numberText": "46/64",
+            "number": 46,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/seaking_jungle_46.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "seaking_jungle_46",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Tauros",
+            "numberText": "47/64",
+            "number": 47,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/tauros_jungle_47.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "tauros_jungle_47",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Weepinbell",
+            "numberText": "48/64",
+            "number": 48,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/weepinbell_jungle_48.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "weepinbell_jungle_48",
+            "rarity": {
+                "type": "uncommon"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Bellsprout",
+            "numberText": "49/64",
+            "number": 49,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/bellsprout_jungle_49.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "bellsprout_jungle_49",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Cubone",
+            "numberText": "50/64",
+            "number": 50,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/cubone_jungle_50.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "cubone_jungle_50",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Eevee",
+            "numberText": "51/64",
+            "number": 51,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/eevee_jungle_51.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "eevee_jungle_51",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Exeggcute",
+            "numberText": "52/64",
+            "number": 52,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/exeggcute_jungle_52.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "exeggcute_jungle_52",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Goldeen",
+            "numberText": "53/64",
+            "number": 53,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/goldeen_jungle_53.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "goldeen_jungle_53",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Jigglypuff",
+            "numberText": "54/64",
+            "number": 54,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/jigglypuff_jungle_54.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "jigglypuff_jungle_54",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Mankey",
+            "numberText": "55/64",
+            "number": 55,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/mankey_jungle_55.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "mankey_jungle_55",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Meowth",
+            "numberText": "56/64",
+            "number": 56,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/meowth_jungle_56.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "meowth_jungle_56",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Nidoran♀",
+            "numberText": "57/64",
+            "number": 57,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/nidoran_jungle_57.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "nidoran_jungle_57",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Oddish",
+            "numberText": "58/64",
+            "number": 58,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/oddish_jungle_58.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "oddish_jungle_58",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Paras",
+            "numberText": "59/64",
+            "number": 59,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/paras_jungle_59.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "paras_jungle_59",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Pikachu",
+            "numberText": "60/64",
+            "number": 60,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/pikachu_jungle_60.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "pikachu_jungle_60",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Rhyhorn",
+            "numberText": "61/64",
+            "number": 61,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/rhyhorn_jungle_61.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "rhyhorn_jungle_61",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Spearow",
+            "numberText": "62/64",
+            "number": 62,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/spearow_jungle_62.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "spearow_jungle_62",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Venonat",
+            "numberText": "63/64",
+            "number": 63,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/venonat_jungle_63.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "venonat_jungle_63",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    },
+    {
+        "model": "Card",
+        "data": {
+            "name": "Poké Ball",
+            "numberText": "64/64",
+            "number": 64,
+            "image": "https://res.cloudinary.com/dqhs5nw7b/image/upload/cards/jungle/poke_ball_jungle_64.jpg",
+            "series": {
+                "name": "Jungle"
+            },
+            "cardId": "poke_ball_jungle_64",
+            "rarity": {
+                "type": "common"
+            }
+        }
+    }
+]

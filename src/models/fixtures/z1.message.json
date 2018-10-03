@@ -1,0 +1,53 @@
+[
+  {
+    "model": "Message",
+    "data": {
+      "message": "Hello",
+      "sender": {
+        "username": "taapesh"
+      },
+      "receiver": {
+        "username": "BigSeft"
+      },
+      "collectionEntry": 1
+    }
+  },
+  {
+    "model": "Message",
+    "data": {
+      "message": "Oh hi",
+      "sender": {
+        "username": "BigSeft"
+      },
+      "receiver": {
+        "username": "taapesh"
+      },
+      "message_id": 1
+    }
+  },
+  {
+    "model": "Message",
+    "data": {
+      "message": "How are you",
+      "sender": {
+        "username": "taapesh"
+      },
+      "receiver": {
+        "username": "BigSeft"
+      },
+      "message_id": 1
+    }
+  },
+  {
+    "model": "Message",
+    "data": {
+      "message": "You are receiving this message",
+      "sender": {
+        "username": "BigSeft"
+      },
+      "receiver": {
+        "username": "taapesh"
+      }
+    }
+  }
+]
