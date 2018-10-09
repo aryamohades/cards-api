@@ -2,8 +2,6 @@ FROM node:alpine
 
 RUN yarn global add nodemon
 
-EXPOSE 3000
-
 WORKDIR /app
 
 # Bundle app

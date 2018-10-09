@@ -1,10 +1,10 @@
 {
   "name": "cards-api",
-  "description": "cards api",
+  "description": "Cards API",
   "version": "1.0.0",
   "author": "taapesh",
   "private": true,
-  "repository": "https://gitlab.com/MakeshiftSoftware/cards-api",
+  "repository": "https://gitlab.com/aryamohades/cards-api",
   "engines": {
     "node": ">=8.0.0"
   },
@@ -12,7 +12,10 @@
     "dev": "nodemon --watch src ./src/server.js",
     "lint": "./node_modules/.bin/eslint src/**",
     "clean": "rm -rf node_modules && yarn cache clean && yarn",
+    "docker-stop": "docker stop example_app || true && docker stop example_postgres || true",
+    "docker-remove": "docker rm example_app || true && docker rm example_postgres || true",
     "start": "node ./src/server.js",
+    "clean": "rm -rf node_modules && rm -f yarn.lock && yarn cache clean && yarn",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {

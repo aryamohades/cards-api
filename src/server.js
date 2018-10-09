@@ -1,61 +1,83 @@
 /* eslint-disable no-process-exit */
 const http = require('http');
 const path = require('path');
+const os = require('os');
+const cluster = require('cluster');
+const logger = require('./logger');
 const app = require('./app');
 const models = require('./models');
-const log = require('./logger');
+
+const {
+  NODE_ENV,
+  PORT = 8000
+} = process.env;
 
 const init = async () => {
   try {
     await models.sequelize.authenticate();
 
     await models.sequelize.sync({
-      force: process.env.NODE_ENV === 'development'
+      force: NODE_ENV === 'development'
     });
 
-    if (process.env.NODE_ENV === 'development') {
+    if (NODE_ENV === 'development') {
       await models.fixtures.loadFile(
         path.join(__dirname, '/models/fixtures/*.json'),
         models
       );
     }
 
-    start();
+    fork();
   } catch (e) {
     throw e;
   }
 };
 
+const fork = () => {
+  for (let i = 0; i < os.cpus().length; ++i) {
+    cluster.fork();
+  }
+
+  cluster.on('exit', (worker) => {
+    if (!worker.exitedAfterDisconnect) {
+      logger.error(`[api] Worker has died: ${worker.process.pid}`);
+
+      cluster.fork();
+    }
+  });
+};
+
 const start = async () => {
   try {
-    const port = process.env.PORT;
-
     const server = http.createServer(app);
 
-    server.listen(port, () => {
+    server.listen(PORT, () => {
       process.on('SIGINT', stop);
-
       process.on('SIGTERM', stop);
 
-      log.info('[api] Server listening on ' + port);
+      logger.info(`[api] Server listening on ${PORT}`);
     });
   } catch (e) {
     throw e;
   }
 };
 
-async function stop() {
+const stop = async () => {
   try {
-    log.info('[api] Stopping server gracefully');
+    logger.info('[api] Stopping server gracefully');
 
     await models.sequelize.close();
 
     process.exit(0);
   } catch (e) {
-    log.error('[api] Disconnect from database failed: ' + e.message);
+    logger.error(`[api] Disconnect from database failed: ${e.message}`);
 
     process.exit(1);
   }
-}
+};
 
-init();
+if (cluster.isMaster) {
+  init();
+} else {
+  start();
+}

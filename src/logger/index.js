@@ -1,11 +1,11 @@
 const winston = require('winston');
 
-const level = process.env.LOG_LEVEL || 'debug';
+const { LOG_LEVEL = 'debug' } = process.env;
 
-const logger = new winston.Logger({
+const logger = winston.createLogger({
   transports: [
     new winston.transports.Console({
-      level,
+      level: LOG_LEVEL,
       timestamp: () => (new Date()).toISOString()
     })
   ]
